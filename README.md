@@ -9,7 +9,10 @@ The idea for creating a game development website was born out of my imagining my
 
 ---
 ## Screenshots
+### Home page
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der001.png "Screenshot 1")
+
+### 
                                        
                                                                               
 

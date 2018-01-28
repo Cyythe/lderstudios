@@ -9,19 +9,17 @@ The idea for creating a game development website was born out of my imagining my
 
 ---
 ## Screenshots
-### Home page
+### Home
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der001.png "Screenshot 1")
 
-### 
+### About
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der002.png "Screenshot 2")
 
-### 
+### Games (Grymwar)
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der003.png "Screenshot 3") 
 
-### 
+### Games (RITE) 
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der004.png "Screenshot 4") 
 
-### 
+### Contact
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der005.png "Screenshot 5") 
-                                                                              
-

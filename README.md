@@ -9,7 +9,7 @@ The idea for creating a game development website was born out of my imagining my
 
 ---
 ## Screenshots
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 1")
                                        
                                                                               
 

@@ -22,4 +22,12 @@ The idea for creating a game development website was born out of my imagining my
 ![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der004.png "Screenshot 4") 
 
 ### Contact
-![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der005.png "Screenshot 5") 
+![alt text](https://github.com/ptmjddavis/L-Der-Studios/blob/gh-pages/L-Der005.png "Screenshot 5")
+
+---
+## Technologies
+* HTML
+* CSS
+
+*Built with*<br/>
+* [Notepad++](https://notepad-plus-plus.org/)

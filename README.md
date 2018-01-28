@@ -26,8 +26,13 @@ The idea for creating a game development website was born out of my imagining my
 
 ---
 ## Technologies
+### Languages
 * HTML
 * CSS
 
-*Built with*<br/>
+### Graphics
+* [Inkscape](https://inkscape.org/en/)
+* [Blender 3D](https://www.blender.org/)
+
+### IDE
 * [Notepad++](https://notepad-plus-plus.org/)
